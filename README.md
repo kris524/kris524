@@ -8,4 +8,9 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 ![](https://dcbadge.vercel.app/api/shield/520315179171446785?style=flat)
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,aws,git,docker,js,html,css,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,aws,git,docker,flask,gitlab,js,html,css,node)](https://skillicons.dev)
+
+
+## Info
+
+![]({https://github-readme-streak-stats.herokuapp.com/?user={kris524}})
