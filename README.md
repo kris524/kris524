@@ -6,8 +6,7 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kristiyan-dilov-4317a4178/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kristiyan514?label=kristiyan514&logo=twitter&style=flat&color=blue)
 ![](https://dcbadge.vercel.app/api/shield/520315179171446785?style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/kris524/kris524?logo=GitHub&color=violet&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/kris524/kris524?logo=GitHub&style=flat&color=red)
+![Visits Badge](https://badges.pufler.dev/visits/kris524/kris524?logo=GitHub&style=flat&color=blueviolet)
 
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,rust,aws,git,docker,flask,gitlab,js,html,css,node)](https://skillicons.dev)
