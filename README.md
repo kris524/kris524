@@ -13,7 +13,7 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 
 ## 📊 Stats
 
-![]({https://github-readme-streak-stats.herokuapp.com/?user=kris524&show_icons=true&count_private=true&theme=dark})
+![]({https://github-readme-streak-stats.herokuapp.com/?user=kris524&show_icons=true&count_private=true})
 
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
