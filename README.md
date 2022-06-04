@@ -11,6 +11,6 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 [![My Skills](https://skillicons.dev/icons?i=python,rust,aws,git,docker,flask,gitlab,js,html,css,node)](https://skillicons.dev)
 
 
-## Info
+## :bar_chart: Stats
 
 ![]({https://github-readme-streak-stats.herokuapp.com/?user={kris524}})
