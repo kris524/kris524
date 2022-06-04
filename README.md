@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Kristiyan. Software Engineer passionate about blockchain infrastructure, Web3.0, dapps, open-source and quantum computing. I graduated from Royal Holloway in 2021 with BSc in Physics and had an internship at Cambridge Quantum Computing (@CQCL). I currently work at Agile Analog (semiconductor industry). I love building and shipping products, contrinuting to open source and participating in hackatons. 
+
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <!--
 **kris524/kris524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
