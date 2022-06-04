@@ -20,7 +20,7 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 <!-- https://github-readme-stats.vercel.app/api?username={username}  -->
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.herokuapp.com/?username=kris524&show_icons=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kris524&count_private=true" width="350"></a>
 </p>
  
  <p>
