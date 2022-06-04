@@ -14,11 +14,11 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 
 ## 📊 Stats
 
-
+<!-- 
 <p>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kris524&count_private=true" width="400"></a>
 </p>
- 
+  -->
  <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kris524&show_icons=true&count_private=true" width="400"></a>
 </p>
