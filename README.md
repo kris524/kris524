@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Kristiyan. Software Engineer passionate about blockchain infrastructure, Web3.0, dapps, open-source and quantum computing. I love building and shipping products, contrinuting to projects and participating in hackatons.
-
+I am Kristiyan. Software Engineer passionate about blockchain infrastructure, Web3.0, dapps, open-source and quantum computing. I love building and shipping products, contributing to projects and participating in hackathons.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kristiyan-dilov-4317a4178/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kristiyan514?label=kristiyan514&logo=twitter&style=flat&color=blue)
