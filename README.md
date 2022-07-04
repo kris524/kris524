@@ -8,7 +8,7 @@ I am Kristiyan. Software Engineer passionate about blockchain infrastructure, We
 ![](https://www.codewars.com/users/kris524/badges/micro)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=kris524&repo=github-visitors-badge&countColor=%237B1E7A&style=flat)
 
-![Visits Badge](https://badges.pufler.dev/visits/kris524/kris524?logo=GitHub&style=flat&color=blueviolet)
+<!-- ![Visits Badge](https://badges.pufler.dev/visits/kris524/kris524?logo=GitHub&style=flat&color=blueviolet) -->
 
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,rust,aws,git,docker,flask,gitlab,js,html,css,node)](https://skillicons.dev)
