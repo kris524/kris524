@@ -2,7 +2,7 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-I am passionate about Quantum Computing technology, both hardware (superconducting qubits, photonics, ion traps) and software (Quantum algorithms, error correction, and compilers).
+⚛️ I am passionate about Quantum Computing technology, both hardware (superconducting qubits, photonics, ion traps) and software (Quantum algorithms, error correction, and compilers).
 
 I love contributing to open-source, building stuff, and participating in hackathons.
 
