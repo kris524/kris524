@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kristiyan. Software Engineer passionate about blockchain infrastructure, Web3.0, dapps, open-source and quantum computing. I love building and shipping products, contributing to projects and participating in hackathons.
+I am Kristiyan. Software Engineer at (Agile Analog)[https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch01-03-how-rust-is-made-and-nightly-rust.html#stability-without-stagnation], previously an intern at Cambridge Quantum
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kristiyan-dilov-4317a4178/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kristiyan514?label=kristiyan514&logo=twitter&style=flat&color=blue)](https://twitter.com/kristiyan514)
