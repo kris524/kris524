@@ -4,7 +4,7 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 
 ⚛️ I am passionate about Quantum Computing, Cloud, SaaS, FinTech, and Blockchain.
 
-📖 I always follow SOLID principles when wrting code.
+📖 I always follow SOLID and Clean Code principles when wrting code.
 
 🛠️ I love contributing to open-source, building, learning Rust 🦀, and participating in hackathons.
 
