@@ -2,14 +2,13 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-⚛️ I am passionate about Quantum Computing, Cloud, SaaS, FinTech, and Blockchain.
+⚛️ I am passionate about SaaS, Cloud and Software Infrastructure, FinTech, Blockchain and Quantum Computing.
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
 🛠️ I love contributing to open-source, building with <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/25/000000/python--v1.png"/> and Rust 🦀, and participating in hackathons.
 
-
-🎯 My current objective is to become the best Developer at my company while practising my problem solving skills 
+🎯 My current objective is to become the best developer at my company while practising my problem solving skills 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/kristiyan-dilov-4317a4178/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kristiyan514?label=kristiyan514&logo=twitter&style=flat&color=blue)](https://twitter.com/kristiyan514)
