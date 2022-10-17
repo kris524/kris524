@@ -6,7 +6,7 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
-🛠️ I love contributing to open-source, building with <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/>, Python and Rust 🦀, and participating in hackathons.
+🛠️ I love contributing to open-source, building with <img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/>, Python and Rust 🦀, and participating in hackathons.
 
 
 🎯 My current objective is to become the best Developer at my company while practising my problem solving skills 
