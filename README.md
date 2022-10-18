@@ -18,9 +18,9 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 ## 👨‍💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,rust,js,aws,git,githubactions,docker,flask,django,gitlab,nodejs,express,qt)](https://skillicons.dev)
 
-
-## ⚡ Stats
-
+<details>
+<summary>## ⚡ Stats</summary>
+<br>
 <!-- 
 <p>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kris524&count_private=true" width="400"></a>
@@ -29,4 +29,5 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
  <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kris524&show_icons=true&count_private=true" width="400"></a>
 </p>
- 
+
+</details>
