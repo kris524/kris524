@@ -19,7 +19,7 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 [![My Skills](https://skillicons.dev/icons?i=python,rust,js,aws,git,githubactions,docker,flask,django,gitlab,nodejs,express,qt)](https://skillicons.dev)
 
 <details>
-## <summary> ⚡ Stats</summary>
+<summary> ⚡ Github Stats</summary>
 <br>
 <!-- 
 <p>
