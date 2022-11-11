@@ -2,7 +2,7 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-⚛️ I am passionate about SaaS, Cloud and Software Infrastructure, FinTech, Blockchain and Quantum Computing.
+⚛️ I am passionate about SaaS, Cloud and Software Infrastructure, FinTech, B2B and B2C.
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
