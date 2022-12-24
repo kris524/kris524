@@ -2,7 +2,8 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-⚛️ I am curious about Cloud Computing and Software Infrastructure.
+⚛
+☁️ I am curious about Cloud Computing and Software Infrastructure.
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
