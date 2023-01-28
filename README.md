@@ -15,7 +15,7 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 ![](https://www.codewars.com/users/kris524/badges/micro)
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,go,js,aws,git,githubactions,docker,flask,django,gitlab,nodejs,express,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,go,aws,git,githubactions,docker,flask,django,gitlab,nodejs,express,qt)](https://skillicons.dev)
 
 <details>
 <summary> ⚡ Github Stats</summary>
