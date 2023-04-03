@@ -2,11 +2,11 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-☁️ I am curious about Cloud Computing and Software Infrastructure.
+☁️ I am interested in Data and Software Infrastructure/Tooling, SaaS, PaaS, Cloud, ML/DevOps, AI, Greentech.
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
-🛠️ I am language agnostic and I love contributing to open-source, building, and participating in hackathons.
+🛠️ I am language agnostic. I love contributing to open-source, experimenting, building, and participating in hackathons.
 
 👾 I share what I read every week on my [newsletter](https://krisdilov.substack.com/)
 
