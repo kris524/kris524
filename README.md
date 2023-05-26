@@ -2,11 +2,11 @@
 
 I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
 
-☁️ I am interested in Data and Software Infrastructure/Tooling, Cloud, Dev/MLOps, AI, Greentech.
+☁️ I am interested in Semiconductors, Data/Software Infrastructure and Tooling.
 
 📖 I always follow SOLID and Clean Code principles when wrting code.
 
-🛠️ I am language agnostic. I love contributing to open-source, experimenting, building, and participating in hackathons.
+🛠️ I am language agnostic. I like contributing to open-source, experimenting, building, and participating in hackathons.
 
 👾 I share what I read every week on my [newsletter](https://krisdilov.substack.com/)
 
@@ -17,16 +17,11 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 ![](https://www.codewars.com/users/kris524/badges/micro)
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,aws,git,githubactions,rabbitmq,docker,flask,django,gitlab,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,aws,git,githubactions,linux,docker,jenkins,flask,fastapi,gitlab,qt)](https://skillicons.dev)
 
 <details>
 <summary> ⚡ Github Stats</summary>
 <br>
-<!-- 
-<p>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kris524&count_private=true" width="400"></a>
-</p>
-  -->
  <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kris524&show_icons=true&count_private=true" width="400"></a>
 </p>
