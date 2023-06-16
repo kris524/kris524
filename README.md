@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/), previously an intern at [Cambridge Quantum](https://cambridgequantum.com/) 
+I am Kristiyan. Software Engineer at [Arm](https://www.arm.com/), previously worked at [Agile Analog](https://www.agileanalog.com/), and [Cambridge Quantum](https://cambridgequantum.com/) 
 
 ☁️ I am interested in Semiconductors, Data/Software Infrastructure and Tooling.
 
-📖 I always follow SOLID and Clean Code principles when wrting code.
+📖 I always follow SOLID and Clean Code principles when writing code.
 
 🛠️ I am language agnostic. I like contributing to open-source, experimenting, building, and participating in hackathons.
 
@@ -17,13 +17,5 @@ I am Kristiyan. Software Engineer at [Agile Analog](https://www.agileanalog.com/
 ![](https://www.codewars.com/users/kris524/badges/micro)
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,aws,githubactions,git,linux,kubernetes,docker,jenkins,flask,fastapi,gitlab,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,aws,githubactions,git,linux,kubernetes,docker,jenkins,flask,gitlab,qt)](https://skillicons.dev)
 
-<details>
-<summary> ⚡ Github Stats</summary>
-<br>
- <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kris524&show_icons=true&count_private=true" width="400"></a>
-</p>
-
-</details>
