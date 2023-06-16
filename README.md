@@ -17,5 +17,5 @@ I am Kristiyan. Software Engineer at [Arm](https://www.arm.com/), previously wor
 ![](https://www.codewars.com/users/kris524/badges/micro)
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,aws,githubactions,git,linux,kubernetes,docker,jenkins,flask,gitlab,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,rust,aws,githubactions,git,linux,kubernetes,docker,jenkins,flask,gitlab,qt)](https://skillicons.dev)
 
